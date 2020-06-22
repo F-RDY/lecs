@@ -1,2 +1,2 @@
-# LECS
-Lua Entity Component System for ROBLOX.
+# Secsy
+**S**imple **e**ntity **c**omponent **sy**stem.
